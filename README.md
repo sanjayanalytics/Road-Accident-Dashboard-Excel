@@ -10,6 +10,12 @@ It is designed to help stakeholders, analysts, and decision-makers understand ac
 
 ---
 
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img src="https://github.com/sanjayanalytics/Road-Accident-Dashboard-Excel-/blob/bde10c71787d4b9b45cfb2e58031c871664d6354/Road%20Accident%20Dashboard.png" width="900">
+</p>
+
 ## 🎯 Objective
 
 The primary objective of this project is to:
@@ -138,13 +144,6 @@ This dashboard helps:
 * Business Intelligence Reporting
 
 ---
-
-## 📷 Dashboard Preview
-
-<p align="center">
-  <img src="https://github.com/sanjayanalytics/Road-Accident-Dashboard-Excel-/blob/bde10c71787d4b9b45cfb2e58031c871664d6354/Road%20Accident%20Dashboard.png" width="900">
-</p>
-
 
 ## 📬 About Me
 
