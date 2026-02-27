@@ -153,6 +153,7 @@ I am a **Data Analyst Enthusiast** with strong skills in:
 * Advanced Excel
 * Power BI
 * SQL
+* Python
 * Data Visualization
 * Dashboard Development
 
